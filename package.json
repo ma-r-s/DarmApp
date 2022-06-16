@@ -19,11 +19,13 @@
   },
   "type": "module",
   "dependencies": {
+    "@capacitor-community/http": "^1.4.1",
     "@capacitor/android": "^3.5.1",
     "@capacitor/cli": "^3.5.1",
     "@capacitor/core": "^3.5.1",
     "@capacitor/ios": "^3.5.1",
     "@sveltejs/adapter-static": "^1.0.0-next.31",
+    "apexcharts": "^3.35.2",
     "daisyui": "^2.15.0"
   }
 }
